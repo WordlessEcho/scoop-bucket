@@ -21,3 +21,15 @@ This project is used to establish a TCP/UDP port mapping from an ISP NAT public 
 ```pwsh
 scoop install echo/natmap
 ```
+
+## intellij-jbr25*
+JetBrains Runtime is a fork of OpenJDK available for Windows, Mac OS X, and Linux. It supports enhanced class redefinition (DCEVM), features optional JCEF, a framework for embedding Chromium-based browsers, includes a number of improvements in font rendering, keyboards support, windowing/focus subsystems, HiDPI, accessibility, and performance, provides better desktop integration and bugfixes not yet present in OpenJDK.
+
+[ScoopInstaller/Java#576](https://github.com/ScoopInstaller/Java/issues/576)
+
+```pwsh
+scoop install echo/intellij-jbr25
+scoop install echo/intellij-jbr25-jcef
+scoop install echo/intellij-jbr25-sdk
+scoop install echo/intellij-jbr25-sdk-jcef
+```
