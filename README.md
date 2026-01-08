@@ -11,3 +11,13 @@ PR from me doesn't accepted by Scoop yet.
 scoop bucket add echo https://github.com/WordlessEcho/scoop-bucket
 scoop install echo/<manifestname>
 ```
+
+## Packages
+### natmap
+This project is used to establish a TCP/UDP port mapping from an ISP NAT public address to local private address.
+
+[ScoopInstaller/Main#7481](https://github.com/ScoopInstaller/Main/issues/7481)
+
+```pwsh
+scoop install echo/natmap
+```
