@@ -33,3 +33,18 @@ scoop install echo/intellij-jbr25-jcef
 scoop install echo/intellij-jbr25-sdk
 scoop install echo/intellij-jbr25-sdk-jcef
 ```
+
+### PeerBanHelper
+Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.
+
+[ScoopInstaller/Extras#15752](https://github.com/ScoopInstaller/Extras/issues/15752)
+
+Install a Java before, highly recommand JBR.
+```pwsh
+scoop install echo/intellij-jbr25
+```
+
+Then:
+```pwsh
+scoop install echo/peerbanhelper
+```
