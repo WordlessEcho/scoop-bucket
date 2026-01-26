@@ -1,18 +1,18 @@
 {
-    "version": "25.0.1-b268.52",
+    "version": "25.0.1-b285.56",
     "homepage": "https://github.com/JetBrains/JetBrainsRuntime",
     "description": "A fork of OpenJDK that supports enhanced class redefinition (DCEVM), features optional JCEF, a framework for embedding Chromium-based browsers, includes a number of improvements in font rendering, keyboards support, windowing/focus subsystems, HiDPI, accessibility, and performance, provides better desktop integration and bugfixes not yet present in OpenJDK.",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-25.0.1-windows-x64-b268.52.tar.gz",
-            "hash": "sha512:51a78dad13d5f9b53b0e2bffc5e677104de5ffab4ee34748210b5863db096d9ccd2584628f519b83f71c2a8488e6dc622c11079af0269b53648d90e3e53ae0af",
-            "extract_dir": "jbrsdk_jcef-25.0.1-windows-x64-b268.52"
+            "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-25.0.1-windows-x64-b285.56.tar.gz",
+            "hash": "sha512:d4ee5200ab14bee2cef335a463bd25468e080335f5dcbb56040d3cc6d46ae4715903030993be8557bccdba934aa216bbb0f2d451f02500e69e0c4d4a12a24ccb",
+            "extract_dir": "jbrsdk_jcef-25.0.1-windows-x64-b285.56"
         },
         "arm64": {
-            "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-25.0.1-windows-aarch64-b268.52.tar.gz",
-            "hash": "sha512:6ae4f50cd45fd5411eb1ad5e890c99cfeb71f278030317ec097d6cb087490e64e56004e958957a5cb8798cb561a9783ac045b5a16873aaa2f6c3fa8c14889347",
-            "extract_dir": "jbrsdk_jcef-25.0.1-windows-aarch64-b268.52"
+            "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-25.0.1-windows-aarch64-b285.56.tar.gz",
+            "hash": "sha512:4e64b42f18c561d4fc28b0f87e62bdb39f06ea518bc43c6c4f2d7a2b4be517fe317220df4e5516e36d2aeabee4edc3d1cd4665452af6308ca4b8dbd790b9b497",
+            "extract_dir": "jbrsdk_jcef-25.0.1-windows-aarch64-b285.56"
         }
     },
     "env_set": {
