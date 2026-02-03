@@ -1,18 +1,18 @@
 {
-    "version": "25.0.1-b285.56",
+    "version": "25.0.2-b300.57",
     "homepage": "https://github.com/JetBrains/JetBrainsRuntime",
     "description": "A fork of OpenJDK that supports enhanced class redefinition (DCEVM), features optional JCEF, a framework for embedding Chromium-based browsers, includes a number of improvements in font rendering, keyboards support, windowing/focus subsystems, HiDPI, accessibility, and performance, provides better desktop integration and bugfixes not yet present in OpenJDK.",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr-25.0.1-windows-x64-b285.56.tar.gz",
-            "hash": "sha512:24cb31d916c59e7c2e1b7f7be8671b15a89c085ddaf5fcde8d9bf7f0ad1d6d0b7e468e779b5e9204ea88edd9e7377abbc825aeecc4988f279ee0ce1086ed7cb4",
-            "extract_dir": "jbr-25.0.1-windows-x64-b285.56"
+            "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr-25.0.2-windows-x64-b300.57.tar.gz",
+            "hash": "sha512:8bd5c50d1b4ee321c74114e96ddf3778648792874353077a29c581584e7e052b254e24efdf0f7f71bc8a98e15225439ba25dd8cf613aa94e270791a93cb062cd",
+            "extract_dir": "jbr-25.0.2-windows-x64-b300.57"
         },
         "arm64": {
-            "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr-25.0.1-windows-aarch64-b285.56.tar.gz",
-            "hash": "sha512:6d3c3b24e0c0e5c4a9261b8519875ee1d77a73119d791cb0579cea607ec104fa6cb3071d5b2887c1aff595a431a9c0c863901807f7a8fb5cf7f359f531c09385",
-            "extract_dir": "jbr-25.0.1-windows-aarch64-b285.56"
+            "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr-25.0.2-windows-aarch64-b300.57.tar.gz",
+            "hash": "sha512:5e54fecee7548c70dcf1f74cb9f9a14a8db377879917912d90ce22fce11ac9cc71bfadadff73a7bde607220886b289af9873ebb22fbe85828c2a388694ad5d80",
+            "extract_dir": "jbr-25.0.2-windows-aarch64-b300.57"
         }
     },
     "env_set": {
