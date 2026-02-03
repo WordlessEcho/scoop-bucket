@@ -1,18 +1,18 @@
 {
-    "version": "25.0.1-b285.56",
+    "version": "25.0.2-b300.57",
     "homepage": "https://github.com/JetBrains/JetBrainsRuntime",
     "description": "A fork of OpenJDK that supports enhanced class redefinition (DCEVM), features optional JCEF, a framework for embedding Chromium-based browsers, includes a number of improvements in font rendering, keyboards support, windowing/focus subsystems, HiDPI, accessibility, and performance, provides better desktop integration and bugfixes not yet present in OpenJDK.",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-25.0.1-windows-x64-b285.56.tar.gz",
-            "hash": "sha512:ea9b67b99e1073147c14cc57671becd8637876733c91622f2b5396885b45b328f568cd0b1d8b93c7da87d496928c9a9a49a75df620ff9b613d0c4eaf618de0c9",
-            "extract_dir": "jbr_jcef-25.0.1-windows-x64-b285.56"
+            "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-25.0.2-windows-x64-b300.57.tar.gz",
+            "hash": "sha512:1f6fdaded9b56d8da9c6e5241ada5567806d56023f7b1bf0e687ce9c35a34045a73e030772719faecbdecf93afe49ac64ec59d5b54a2eef2d812976b8387697a",
+            "extract_dir": "jbr_jcef-25.0.2-windows-x64-b300.57"
         },
         "arm64": {
-            "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-25.0.1-windows-aarch64-b285.56.tar.gz",
-            "hash": "sha512:6f41273bb49ef26c77ab39bc1dcbe741a633580db0f00605861843ad8d5cf84d733497f39fcb5de51ce9226f6c04eb6d0540237bb79bde7a84c01390ad0182e9",
-            "extract_dir": "jbr_jcef-25.0.1-windows-aarch64-b285.56"
+            "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-25.0.2-windows-aarch64-b300.57.tar.gz",
+            "hash": "sha512:d43f5b3de0a23440f63fffc70260dd15821cd46eb788bd90f451b9a1cae4d7adcab30e14733cff5435a91fa7403c1a85b1283e24b2dba70c397d0a8fb905c52f",
+            "extract_dir": "jbr_jcef-25.0.2-windows-aarch64-b300.57"
         }
     },
     "env_set": {
