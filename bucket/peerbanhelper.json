@@ -21,7 +21,7 @@
     ],
     "suggest": {
         "Java": [
-            "java/intellij-jbr25",
+            "echo/intellij-jbr25",
             "java/liberica25-jre"
         ]
     },
