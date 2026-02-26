@@ -4,11 +4,15 @@
     "homepage": "https://docs.pbh-btn.com/en/",
     "license": "GPL-3.0-or-later",
     "notes": [
+        "Install java/liberica25-jre if you are using Windows 7.",
+        "",
         "[Tutorial](https://docs.pbh-btn.com/en/docs/category/%E4%B8%8B%E8%BD%BD%E5%99%A8%E9%85%8D%E7%BD%AE)",
         "PeerBanHelper recommends starting with JBR.",
         "Launch it with name including \"JBR\" in Start menu.",
         "Console mode can be started via the shell with `peerbanhelper-cli`",
         "or `peerbanhelper-cli-jbr`.",
+        "",
+        "如果您在使用Windows 7，请安装java/liberica25-jre。",
         "",
         "[教程](https://docs.pbh-btn.com/docs/category/%E4%B8%8B%E8%BD%BD%E5%99%A8%E9%85%8D%E7%BD%AE)",
         "PeerBanHelper建议使用JBR启动。您可在开始菜单中，找到名字含有“JBR”的快捷方式。",
@@ -16,7 +20,10 @@
         ""
     ],
     "suggest": {
-        "Java": "java/intellij-jbr25"
+        "Java": [
+            "java/intellij-jbr25",
+            "java/liberica25-jre"
+        ]
     },
     "architecture": {
         "64bit": {
