@@ -13,13 +13,15 @@ scoop install echo/<manifestname>
 ```
 
 ## Packages
-### natmap
+### natmap (migrated)
 This project is used to establish a TCP/UDP port mapping from an ISP NAT public address to local private address.
 
 [ScoopInstaller/Main#7481](https://github.com/ScoopInstaller/Main/issues/7481)
 
+~~scoop install echo/natmap~~
+
 ```pwsh
-scoop install echo/natmap
+scoop install main/natmap
 ```
 
 ### intellij-jbr25*

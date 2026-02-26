@@ -3,6 +3,7 @@
     "description": "TCP/UDP port mapping for full-cone NAT",
     "homepage": "https://github.com/heiher/natmap",
     "license": "MIT",
+    "notes": "natmap is migrated to main bucket. Install main/natmap instead.",
     "architecture": {
         "64bit": {
             "url": "https://github.com/heiher/natmap/releases/download/20260214/natmap-win64.zip",
