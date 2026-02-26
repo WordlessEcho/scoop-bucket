@@ -46,6 +46,11 @@ Install a Java before, highly recommand JBR.
 scoop install echo/intellij-jbr25
 ```
 
+Or install liberica25-jre if you are using Windows 7.
+```pwsh
+scoop install java/liberica25-jre
+```
+
 Then:
 ```pwsh
 scoop install echo/peerbanhelper
