@@ -1,18 +1,18 @@
 {
-    "version": "25.0.2-b329.66",
+    "version": "25.0.2-b329.70",
     "homepage": "https://github.com/JetBrains/JetBrainsRuntime",
     "description": "A fork of OpenJDK that supports enhanced class redefinition (DCEVM), features optional JCEF, a framework for embedding Chromium-based browsers, includes a number of improvements in font rendering, keyboards support, windowing/focus subsystems, HiDPI, accessibility, and performance, provides better desktop integration and bugfixes not yet present in OpenJDK.",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-25.0.2-windows-x64-b329.66.tar.gz",
-            "hash": "sha512:f99a2357b1f7901083f647fa096f2895b07af169b83bc6425b04de46e99b5cbf83b7bde5af4c300ab1d78c5b6b27a9b88b4325035f4f4d68231e6e5ac063642b",
-            "extract_dir": "jbrsdk_jcef-25.0.2-windows-x64-b329.66"
+            "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-25.0.2-windows-x64-b329.70.tar.gz",
+            "hash": "sha512:09cd967d10e4c8a7ab8d93696e7528a64b3a60d1eccf034a7cedacf8593ef0928b3aaf199a47e312dc6853d1ccb225dfed881264af1e462c07f48408ad7e09c6",
+            "extract_dir": "jbrsdk_jcef-25.0.2-windows-x64-b329.70"
         },
         "arm64": {
-            "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-25.0.2-windows-aarch64-b329.66.tar.gz",
-            "hash": "sha512:1d8059fb0145b633360bb2412996ec8241ff0f133e2bb9ea98c304d52f927b88d4539b640bba9d6eb6bb730ed01b8fd3a2912d09e11f9af79b0fda9c6eaa6476",
-            "extract_dir": "jbrsdk_jcef-25.0.2-windows-aarch64-b329.66"
+            "url": "https://cache-redirector.jetbrains.com/intellij-jbr/jbrsdk_jcef-25.0.2-windows-aarch64-b329.70.tar.gz",
+            "hash": "sha512:5f28a3c9d735def713cd0f3224a4a921335e8f81ae1a4ea1ce28647f0637d518d00e5c509de8d69d74b659d78015ab47e6d68ca3e7ad0d56aafc89846130d3dc",
+            "extract_dir": "jbrsdk_jcef-25.0.2-windows-aarch64-b329.70"
         }
     },
     "env_set": {
