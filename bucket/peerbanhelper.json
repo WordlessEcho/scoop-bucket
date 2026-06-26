@@ -1,5 +1,5 @@
 {
-    "version": "9.3.14",
+    "version": "9.3.15",
     "description": "Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.",
     "homepage": "https://docs.pbh-btn.com/en/",
     "license": "GPL-3.0-or-later",
@@ -34,12 +34,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.3.14/PeerBanHelper_Windows_9.3.14_Portable_nojava.zip",
-            "hash": "3ea6be8dda0d75699d5b634f813fa18405fae513714271b739212578e6422da3"
+            "url": "https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.3.15/PeerBanHelper_Windows_9.3.15_Portable_nojava.zip",
+            "hash": "081a8b8a52ffb40cbf9c940a3fc477f4158ec091f0b4f569e271c81f1b5ab6e5"
         },
         "arm64": {
-            "url": "https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.3.14/PeerBanHelper_Windows_9.3.14_Portable_nojava.zip",
-            "hash": "3ea6be8dda0d75699d5b634f813fa18405fae513714271b739212578e6422da3"
+            "url": "https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.3.15/PeerBanHelper_Windows_9.3.15_Portable_nojava.zip",
+            "hash": "081a8b8a52ffb40cbf9c940a3fc477f4158ec091f0b4f569e271c81f1b5ab6e5"
         }
     },
     "extract_dir": "PeerBanHelper",
